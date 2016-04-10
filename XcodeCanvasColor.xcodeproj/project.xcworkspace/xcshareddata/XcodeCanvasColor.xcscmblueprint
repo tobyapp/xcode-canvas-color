@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9AAA4ED2C63BBE5ED30EE06F403C583C1EAF7861",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9AAA4ED2C63BBE5ED30EE06F403C583C1EAF7861" : 0,
+    "DFFD488C1D7EC13C240FB6405B1C687602438AAC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "42E6FE6A-D4EA-435A-9A01-B611D1B3AD2E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9AAA4ED2C63BBE5ED30EE06F403C583C1EAF7861" : "xcode-canvas-color\/",
+    "DFFD488C1D7EC13C240FB6405B1C687602438AAC" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XcodeCanvasColor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XcodeCanvasColor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tobyapp\/xcode-canvas-color.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9AAA4ED2C63BBE5ED30EE06F403C583C1EAF7861"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tobyapp\/test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DFFD488C1D7EC13C240FB6405B1C687602438AAC"
+    }
+  ]
+}
